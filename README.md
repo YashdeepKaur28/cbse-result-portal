@@ -157,7 +157,7 @@ Grades are calculated in `GradeUtil.java` based on CBSE percentage bands:
 ## 👩‍💻 Author
 
 **Yashdeep Kaur**
-- 🎓 B.Tech CSE, Punjab University, Patiala (2026)
+- 🎓 B.Tech CSE, Punjabi University, Patiala (2026)
 - 💼 Java Full Stack Trainee @ CodeSquadz
 - 📧 Email: ykdeep2453@gmail.com
 - 🔗 LinkedIn: [yashdeep-kaur-16aa083b1](https://linkedin.com/in/yashdeep-kaur-16aa083b1)
